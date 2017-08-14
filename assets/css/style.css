@@ -1,0 +1,10 @@
+.red {
+    background: red;
+}
+.border {
+    border-bottom: 20px dashed green;
+}
+
+#first{
+    padding: 50px;
+}
